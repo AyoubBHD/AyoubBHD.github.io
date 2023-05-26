@@ -123,6 +123,7 @@ a:link {
     width: 100vw;
     height: 100vh;
     background-color: crimson;
+    border: 2px solid black;
     display: flex;
     justify-content: space-around;
     align-items:center;
@@ -240,6 +241,7 @@ a:link {
     width: 100vw;
     height: 100vh;
     background-color: chocolate;
+    border: 2px solid black;
     display: flex;
     justify-content: space-around;
     align-items: center;
